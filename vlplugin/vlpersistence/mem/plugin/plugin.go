@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/VolantMQ/vlapi/vlplugin"
-	persistenceMem "github.com/VolantMQ/vlapi/vlplugin/vlpersistence/mem"
+	"github.com/chenyf/mqttapi/vlplugin"
+	persistenceMem "github.com/chenyf/mqttapi/vlplugin/vlpersistence/mem"
 )
 
 type persistencePlugin struct {

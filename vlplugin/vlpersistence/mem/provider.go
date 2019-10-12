@@ -1,8 +1,8 @@
 package persistenceMem
 
 import (
-	"github.com/VolantMQ/vlapi/vlplugin"
-	"github.com/VolantMQ/vlapi/vlplugin/vlpersistence"
+	"github.com/chenyf/mqttapi/vlplugin"
+	"github.com/chenyf/mqttapi/vlplugin/vlpersistence"
 )
 
 type dbStatus struct {

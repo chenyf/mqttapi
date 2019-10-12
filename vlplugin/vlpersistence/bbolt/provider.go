@@ -9,8 +9,8 @@ import (
 	"github.com/blang/semver"
 	"github.com/coreos/bbolt"
 
-	"github.com/VolantMQ/vlapi/vlplugin"
-	"github.com/VolantMQ/vlapi/vlplugin/vlpersistence"
+	"github.com/chenyf/mqttapi/vlplugin"
+	"github.com/chenyf/mqttapi/vlplugin/vlpersistence"
 )
 
 var (

@@ -3,7 +3,7 @@ package persistenceBbolt
 import (
 	"github.com/coreos/bbolt"
 
-	"github.com/VolantMQ/vlapi/vlplugin/vlpersistence"
+	"github.com/chenyf/mqttapi/vlplugin/vlpersistence"
 )
 
 type system struct {

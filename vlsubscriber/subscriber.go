@@ -1,7 +1,7 @@
 package vlsubscriber
 
 import (
-	"github.com/VolantMQ/vlapi/mqttp"
+	"github.com/chenyf/mqttapi/mqttp"
 )
 
 // SubscriptionParams parameters of the subscription

@@ -9,7 +9,7 @@ import (
 	"github.com/troian/healthcheck"
 	"gopkg.in/yaml.v3"
 
-	"github.com/VolantMQ/vlapi/vlplugin"
+	"github.com/chenyf/mqttapi/vlplugin"
 )
 
 type pl struct {
